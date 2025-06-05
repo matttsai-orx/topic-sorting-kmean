@@ -1,4 +1,11 @@
 # Core dependencies
 pytest==7.4.3
 black==23.11.0
-flake8==6.1.0 
+flake8==6.1.0
+
+# Added from the code block
+openai>=1.0.0
+pandas>=2.0.0
+scikit-learn>=1.0.0
+plotly>=5.0.0
+python-dotenv>=1.0.0 

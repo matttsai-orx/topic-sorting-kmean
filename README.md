@@ -2,6 +2,22 @@
 
 This is a Python project for topic sorting.
 
+## Project Structure
+
+```
+topic-sorting/
+├── assets/              # Data files (JSON, etc.)
+├── src/                 # Source code
+│   └── topic_sorting/   # Main package
+│       ├── __init__.py
+│       └── main.py      # Main entry point
+├── tests/               # Test files
+├── venv/               # Virtual environment
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
+
 ## Setup
 
 1. Clone the repository:
@@ -34,6 +50,14 @@ pip install -r requirements.txt
 - Use `black` for code formatting
 - Use `flake8` for linting
 - Use `pytest` for testing
+
+## Running the Project
+
+To run the main script:
+
+```bash
+python -m src.main
+```
 
 ## License
 
