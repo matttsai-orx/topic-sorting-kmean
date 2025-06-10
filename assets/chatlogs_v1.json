@@ -1,7 +1,15 @@
 [
   [
     {
-      "chat_id": "chat_001",
+      "chat_id": "CHAT001",
+      "type": "chat",
+      "topics": [
+        "appointment booking",
+        "patient verification",
+        "clinic policies"
+      ],
+      "userTone": "frustrated to satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -52,7 +60,11 @@
   ],
   [
     {
-      "chat_id": "chat_002",
+      "chat_id": "CHAT002",
+      "type": "chat",
+      "topics": ["appointment booking", "new patient", "clinic policies"],
+      "userTone": "polite but uncertain",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -83,7 +95,15 @@
   ],
   [
     {
-      "chat_id": "chat_003",
+      "chat_id": "CHAT003",
+      "type": "chat",
+      "topics": [
+        "appointment booking",
+        "patient verification",
+        "appointment scheduling"
+      ],
+      "userTone": "confused to understanding",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -134,7 +154,15 @@
   ],
   [
     {
-      "chat_id": "chat_004",
+      "chat_id": "CHAT004",
+      "type": "chat",
+      "topics": [
+        "appointment rescheduling",
+        "patient verification",
+        "clinic policies"
+      ],
+      "userTone": "frustrated to satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -185,7 +213,11 @@
   ],
   [
     {
-      "chat_id": "chat_005",
+      "chat_id": "CHAT005",
+      "type": "chat",
+      "topics": ["appointment rescheduling", "new patient policy"],
+      "userTone": "polite but uncertain",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -216,7 +248,15 @@
   ],
   [
     {
-      "chat_id": "chat_006",
+      "chat_id": "CHAT006",
+      "type": "chat",
+      "topics": [
+        "appointment rescheduling",
+        "patient verification",
+        "clinic policies"
+      ],
+      "userTone": "confused to understanding",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -263,7 +303,11 @@
   ],
   [
     {
-      "chat_id": "chat_007",
+      "chat_id": "CHAT007",
+      "type": "chat",
+      "topics": ["insurance", "billing", "coverage"],
+      "userTone": "frustrated, then satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -310,7 +354,11 @@
   ],
   [
     {
-      "chat_id": "chat_008",
+      "chat_id": "CHAT008",
+      "type": "chat",
+      "topics": ["insurance", "coverage", "appointment"],
+      "userTone": "confused, then polite",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -357,7 +405,11 @@
   ],
   [
     {
-      "chat_id": "chat_009",
+      "chat_id": "CHAT009",
+      "type": "chat",
+      "topics": ["insurance", "billing", "coverage"],
+      "userTone": "uncertain, then understanding",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -396,7 +448,16 @@
   ],
   [
     {
-      "chat_id": "chat_010",
+      "chat_id": "CHAT010",
+      "type": "chat",
+      "topics": [
+        "prescription refill",
+        "patient frustration",
+        "professionalism",
+        "empathy"
+      ],
+      "userTone": "frustrated to satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -439,7 +500,16 @@
   ],
   [
     {
-      "chat_id": "chat_011",
+      "chat_id": "CHAT011",
+      "type": "chat",
+      "topics": [
+        "prescription refill",
+        "patient confusion",
+        "clarification",
+        "professionalism"
+      ],
+      "userTone": "confused to understanding",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -482,7 +552,17 @@
   ],
   [
     {
-      "chat_id": "chat_012",
+      "chat_id": "CHAT012",
+      "type": "chat",
+      "topics": [
+        "prescription refill",
+        "patient uncertainty",
+        "agent limitation",
+        "professionalism",
+        "empathy"
+      ],
+      "userTone": "uncertain to understanding",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -525,7 +605,11 @@
   ],
   [
     {
-      "chat_id": "chat_013",
+      "chat_id": "CHAT013",
+      "type": "chat",
+      "topics": ["test results", "patient communication", "clinic service"],
+      "userTone": "initially frustrated, then satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -572,7 +656,11 @@
   ],
   [
     {
-      "chat_id": "chat_014",
+      "chat_id": "CHAT014",
+      "type": "chat",
+      "topics": ["test results", "patient anxiety", "clinic service"],
+      "userTone": "anxious and worried",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -611,7 +699,11 @@
   ],
   [
     {
-      "chat_id": "chat_015",
+      "chat_id": "CHAT015",
+      "type": "chat",
+      "topics": ["test results", "patient confusion", "clinic service"],
+      "userTone": "confused and seeking clarification",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -650,7 +742,15 @@
   ],
   [
     {
-      "chat_id": "chat_016",
+      "chat_id": "CHAT016",
+      "type": "chat",
+      "topics": [
+        "new patient inquiry",
+        "appointment scheduling",
+        "clinic services"
+      ],
+      "userTone": "frustrated, then satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -697,7 +797,11 @@
   ],
   [
     {
-      "chat_id": "chat_017",
+      "chat_id": "CHAT017",
+      "type": "chat",
+      "topics": ["new patient inquiry", "clinic location", "services offered"],
+      "userTone": "curious, polite",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -736,7 +840,15 @@
   ],
   [
     {
-      "chat_id": "chat_018",
+      "chat_id": "CHAT018",
+      "type": "chat",
+      "topics": [
+        "new patient inquiry",
+        "appointment availability",
+        "telehealth"
+      ],
+      "userTone": "uncertain, then understanding",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -775,7 +887,15 @@
   ],
   [
     {
-      "chat_id": "chat_019",
+      "chat_id": "CHAT019",
+      "type": "call",
+      "topics": [
+        "appointment booking",
+        "patient verification",
+        "clinic policies"
+      ],
+      "userTone": "frustrated initially, becomes satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -822,7 +942,11 @@
   ],
   [
     {
-      "chat_id": "chat_020",
+      "chat_id": "CHAT020",
+      "type": "call",
+      "topics": ["appointment booking", "new patient policy"],
+      "userTone": "polite but uncertain",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -853,7 +977,15 @@
   ],
   [
     {
-      "chat_id": "chat_021",
+      "chat_id": "CHAT021",
+      "type": "call",
+      "topics": [
+        "appointment booking",
+        "patient verification",
+        "clinic policies"
+      ],
+      "userTone": "rushed and confused initially, becomes calm and understanding",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -900,7 +1032,15 @@
   ],
   [
     {
-      "chat_id": "chat_022",
+      "chat_id": "CHAT022",
+      "type": "call",
+      "topics": [
+        "appointment rescheduling",
+        "patient verification",
+        "clinic policies"
+      ],
+      "userTone": "frustrated initially, becomes satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -951,7 +1091,11 @@
   ],
   [
     {
-      "chat_id": "chat_023",
+      "chat_id": "CHAT023",
+      "type": "call",
+      "topics": ["appointment rescheduling", "new patient policy"],
+      "userTone": "confused and unsure",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -982,7 +1126,15 @@
   ],
   [
     {
-      "chat_id": "chat_024",
+      "chat_id": "CHAT024",
+      "type": "call",
+      "topics": [
+        "appointment rescheduling",
+        "patient verification",
+        "clinic policies"
+      ],
+      "userTone": "rushed and uncertain",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -1029,7 +1181,11 @@
   ],
   [
     {
-      "chat_id": "chat_025",
+      "chat_id": "CHAT025",
+      "type": "call",
+      "topics": ["insurance coverage", "billing questions"],
+      "userTone": "frustrated at start, becomes satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -1072,7 +1228,11 @@
   ],
   [
     {
-      "chat_id": "chat_026",
+      "chat_id": "CHAT026",
+      "type": "call",
+      "topics": ["insurance eligibility", "coverage verification"],
+      "userTone": "uncertain and hesitant",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -1123,7 +1283,11 @@
   ],
   [
     {
-      "chat_id": "chat_027",
+      "chat_id": "CHAT027",
+      "type": "call",
+      "topics": ["insurance claim status", "coverage questions"],
+      "userTone": "rushed and confused",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -1166,7 +1330,15 @@
   ],
   [
     {
-      "chat_id": "chat_028",
+      "chat_id": "CHAT028",
+      "type": "call",
+      "topics": [
+        "prescription refill",
+        "patient frustration",
+        "medication details"
+      ],
+      "userTone": "frustrated, then satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -1205,7 +1377,15 @@
   ],
   [
     {
-      "chat_id": "chat_029",
+      "chat_id": "CHAT029",
+      "type": "call",
+      "topics": [
+        "prescription refill",
+        "patient confusion",
+        "medication instructions"
+      ],
+      "userTone": "uncertain, then reassured",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -1252,7 +1432,15 @@
   ],
   [
     {
-      "chat_id": "chat_030",
+      "chat_id": "CHAT030",
+      "type": "call",
+      "topics": [
+        "prescription refill",
+        "patient uncertainty",
+        "clinic policies"
+      ],
+      "userTone": "unsure, then understanding",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -1299,7 +1487,11 @@
   ],
   [
     {
-      "chat_id": "chat_031",
+      "chat_id": "CHAT031",
+      "type": "call",
+      "topics": ["test results", "patient concerns", "clinic services"],
+      "userTone": "frustrated initially, becomes satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -1338,7 +1530,11 @@
   ],
   [
     {
-      "chat_id": "chat_032",
+      "chat_id": "CHAT032",
+      "type": "call",
+      "topics": ["test results", "patient anxiety", "appointment scheduling"],
+      "userTone": "anxious and confused",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -1393,7 +1589,11 @@
   ],
   [
     {
-      "chat_id": "chat_033",
+      "chat_id": "CHAT033",
+      "type": "call",
+      "topics": ["test results", "patient confusion", "follow-up instructions"],
+      "userTone": "uncertain and hesitant",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",
@@ -1440,7 +1640,15 @@
   ],
   [
     {
-      "chat_id": "chat_034",
+      "chat_id": "CHAT034",
+      "type": "call",
+      "topics": [
+        "new patient inquiry",
+        "appointment scheduling",
+        "clinic services"
+      ],
+      "userTone": "frustrated initially, becomes satisfied",
+      "agentPersona": "Agent A",
       "messages": [
         {
           "role": "user",
@@ -1495,7 +1703,15 @@
   ],
   [
     {
-      "chat_id": "chat_035",
+      "chat_id": "CHAT035",
+      "type": "call",
+      "topics": [
+        "new patient inquiry",
+        "clinic services",
+        "insurance questions"
+      ],
+      "userTone": "uncertain and hesitant",
+      "agentPersona": "Agent B",
       "messages": [
         {
           "role": "user",
@@ -1542,7 +1758,15 @@
   ],
   [
     {
-      "chat_id": "chat_036",
+      "chat_id": "CHAT036",
+      "type": "call",
+      "topics": [
+        "new patient inquiry",
+        "appointment policies",
+        "clinic location"
+      ],
+      "userTone": "rushed and slightly annoyed",
+      "agentPersona": "Agent C",
       "messages": [
         {
           "role": "user",

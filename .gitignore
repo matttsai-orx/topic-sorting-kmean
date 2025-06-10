@@ -24,3 +24,8 @@ build/
 
 # Logs
 *.log 
+.DS_Store
+
+# Outputs files
+outputs/
+!outputs/.gitkeep
